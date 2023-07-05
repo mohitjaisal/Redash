@@ -55,4 +55,4 @@ We would like to express our gratitude to the developers and contributors of the
 
 
 ## Contributing
-Contributions are welcome and encouraged! If you have any improvements or bug fixes to propose, please follow the guidelines outlined in CONTRIBUTING.md.
+Contributions are welcome and encouraged! If you have any improvements or bug fixes to propose, please follow the guidelines outlined in <a href="https://github.com/mohitjaisal/Redash/blob/master/Contributing.md">Contributing.md</a>.
